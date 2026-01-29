@@ -7,3 +7,5 @@ bash johnbecamon.sh example.com
 bash wifiDos.sh
 
 python2 johnssshs.py
+
+python becamonstresser.py
