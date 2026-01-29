@@ -9,3 +9,5 @@ bash wifiDos.sh
 python2 johnssshs.py
 
 python becamonstresser.py
+
+python c2botnet.py
